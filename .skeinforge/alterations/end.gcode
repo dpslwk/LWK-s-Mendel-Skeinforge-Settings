@@ -8,3 +8,4 @@ G92 Y0                         ;set y 0
 G1 Y-250 F1500.0       ;horizontal move
 G92 Y0                         ;set y 0
 ;feels good to be home
+M84 ; turn off steppers

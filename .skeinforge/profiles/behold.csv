@@ -3,7 +3,7 @@ Name                          	Value
 WindowPosition	0+0
 WindowVisibilities
 Open File for Behold	
-Activate Behold	True
+Activate Behold	False
 Frame List
 Animation Line Quickening (ratio):	1.0
 Animation Slide Show Rate (layers/second):	2.0
@@ -15,7 +15,7 @@ From the Bottom	False
 From the Top	True
 Draw Arrows	False
 Go Around Extruder Off Travel	False
-Layer (index):	0
+Layer (index):	5
 Layer Extra Span (integer):	912345678
 Line (index):	0
 Display Line	True
@@ -26,8 +26,8 @@ Number of Fill Top Layers (integer):	1
 Scale (pixels per millimeter):	15.0
 Screen Horizontal Inset (pixels):	100
 Screen Vertical Inset (pixels):	200
-Viewpoint Latitude (degrees):	15.0
-Viewpoint Longitude (degrees):	210.0
+Viewpoint Latitude (degrees):	144.6
+Viewpoint Longitude (degrees):	306.4
 Width of Axis Negative Side (pixels):	2
 Width of Axis Positive Side (pixels):	6
 Width of Fill Bottom Thread (pixels):	2
