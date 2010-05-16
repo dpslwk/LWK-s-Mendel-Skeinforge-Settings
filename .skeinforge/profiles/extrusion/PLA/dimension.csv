@@ -8,4 +8,4 @@ Absolute Extrusion Distance	True
 Relative Extrusion Distance	False
 Extruder Retraction Speed (mm/s):	50.0
 Retraction Distance (millimeters):	10.0
-Restart Extra Distance (millimeters):	4.0
+Restart Extra Distance (millimeters):	3.0

@@ -2,7 +2,7 @@ Format is tab separated skeinforge craft settings.
 Name                          	Value
 WindowPosition	0+0
 WindowVisibilities
-Open File for Craft	C:/Users/Matt/My Dropbox/Skeinforge/mendel-repos/x-carriage-lower_1off_repos.stl
+Open File for Craft	C:/Users/Matt/My Dropbox/Skeinforge/STL/MendelFeet.stl
 carve	False
 chamber	False
 chop	False

@@ -16,7 +16,7 @@ G1 X120 Y5 F3000			; wipe location
 
 M109 S200.0 ;set temperature and wait
 ;dump some plastic and wipe
-G1 E250 F3000
+G1 E350 F3000
 G1 Z0.2 F150
 G1 X90 F1500
 
