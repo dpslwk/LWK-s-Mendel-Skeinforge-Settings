@@ -1,8 +1,8 @@
-Format is tab separated skeinforge craft settings.
+Format is tab separated craft settings.
 Name                          	Value
-WindowPosition	0+0
+WindowPosition	1229+43
 WindowVisibilities
-Open File for Craft	C:/Users/Matt/My Dropbox/Skeinforge/STL/pulley.stl
+Open File for Craft	
 carve	False
 chamber	False
 chop	False
@@ -11,7 +11,7 @@ clip	False
 coil	False
 comb	False
 cool	False
-dimension	False
+dimension	True
 drill	False
 export	False
 feed	False
@@ -24,12 +24,11 @@ inset	False
 jitter	False
 lash	False
 lift	False
-limit	False
 mill	False
 multiply	False
 oozebane	False
 outset	False
-preface	True
+preface	False
 raft	False
 speed	False
 splodge	False

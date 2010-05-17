@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 Name                          	Value
-WindowPosition	1236+15
-WindowVisibilities	M:\Desktop\Arduino\Skeinforge\reprap_python_beanshell\skeinforge\skeinforge\skeinforge_plugins\analyze_plugins\skeinview
+WindowPosition	1231+5
+WindowVisibilities
 Open File for Skeinforge	
 analyze	False
 craft	True

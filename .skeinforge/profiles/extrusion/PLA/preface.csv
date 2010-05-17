@@ -4,8 +4,8 @@ WindowPosition	700+0
 WindowVisibilities
 Open File for Preface	
 Meta:	
-Name of End File:	end.gcode
-Name of Start File:	start.gcode
+Name of End File:	end.gcode1
+Name of Start File:	start.gcode1
 Set Positioning to Absolute	False
 Set Units to Millimeters	False
 Start at Home	False
