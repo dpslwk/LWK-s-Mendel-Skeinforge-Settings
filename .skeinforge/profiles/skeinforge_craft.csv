@@ -2,7 +2,7 @@ Format is tab separated skeinforge craft settings.
 Name                          	Value
 WindowPosition	0+0
 WindowVisibilities
-Open File for Craft	C:/Users/Matt/My Dropbox/Skeinforge/STL/pulley.stl
+Open File for Craft	C:/Users/Matt/My Dropbox/Skeinforge/STL/20mmbox.stl
 carve	False
 chamber	False
 chop	False

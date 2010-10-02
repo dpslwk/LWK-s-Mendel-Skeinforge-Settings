@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 Name                          	Value
-WindowPosition	1231+5
+WindowPosition	1224+25
 WindowVisibilities
 Open File for Skeinforge	
 analyze	False

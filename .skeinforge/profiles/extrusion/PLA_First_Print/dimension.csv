@@ -1,0 +1,11 @@
+Format is tab separated dimension settings.
+Name                          	Value
+WindowPosition	700+0
+WindowVisibilities
+Open File for Dimension	
+Activate Dimension	True
+Absolute Extrusion Distance	False
+Relative Extrusion Distance	True
+Extruder Retraction Speed (mm/s):	50.0
+Retraction Distance (millimeters):	5.0
+Restart Extra Distance (millimeters):	2.0

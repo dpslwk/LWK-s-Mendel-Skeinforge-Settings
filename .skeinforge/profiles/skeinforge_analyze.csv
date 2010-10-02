@@ -3,9 +3,9 @@ Name                          	Value
 WindowPosition	0+0
 WindowVisibilities
 Open File for Analyze	M:/Desktop/Arduino/Skeinforge/STL/20mmbox_export.gcode
-behold	True
+behold	False
 comment	False
 interpret	False
-skeinview	False
+skeinview	True
 statistic	False
 vectorwrite	False
