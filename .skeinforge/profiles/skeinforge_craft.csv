@@ -2,7 +2,7 @@ Format is tab separated skeinforge craft settings.
 Name                          	Value
 WindowPosition	0+0
 WindowVisibilities
-Open File for Craft	C:/Users/Matt/My Dropbox/Skeinforge/STL/20mmbox.stl
+Open File for Craft	C:/Users/Matt/My Dropbox/Skeinforge/HSCoin.stl
 carve	False
 chamber	False
 chop	False
@@ -18,7 +18,7 @@ feed	False
 fill	False
 fillet	False
 flow	False
-home	False
+home	True
 hop	False
 inset	False
 jitter	False
@@ -29,7 +29,7 @@ mill	False
 multiply	False
 oozebane	False
 outset	False
-preface	True
+preface	False
 raft	False
 speed	False
 splodge	False
